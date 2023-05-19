@@ -9,12 +9,9 @@
     </div>
   <!--  right  -->
     <div class="px-6 pt-6 md:col-start-2 md:col-span-2">
-      <p>Hi, I’m Cali! I am a birth and postpartum doula, childcare worker, and passionate crafter currently located in Philadelphia, PA. My passion for birth stems from the belief that our bodies are innately capable of birthing, healing, and experiencing pleasure as our birth right and within safe circumstances. I aspire to be a space holder in large transitions, and support birthing people through the journey of pregnancy, labor, and fertility.</p>
+      <p>Hi, I’m Cali! I am a Certified Birth and Postpartum Doula and Midwife Assistant in training currently located in Philadelphia, PA. My passion for birth stems from the belief that birth is a physiological experience that deserves education, respect, and support. The pillars of my practice are bodily autonomy, body literacy, and educated consent within the birth space.</p>
     </div>
-    <div class="px-6 pt-5 md:col-start-1 md:col-span-3">
-      <p class="pb-4" >Before college, I was involved in a somatic psychology and dance community in Boulder, Colorado where I was richly acquainted with mindfulness and the mind body connection as well as trauma and the way it shows up in the body. I also have an undergraduate degree in reproductive health, cultural studies, and psychology from The Evergreen State College in Olympia, WA. I feel that my background in these studies guides me as I support people in giving birth, remaining mindful of the way the body holds memories, power, and the clients unique experience in their own life.</p>
-    </div>
-    <div class="px-6 md:col-start-1 md:col-span-2">
+    <div class="px-6 pt-6 md:col-start-1 md:col-span-2">
       <p class="pb-4">I became a trained Birth Doula through Bini Birth in 2018 and hold a certification through PALs Doulas in Seattle WA. I also hold a postpartum doula certification through ProDoula. Additionally I am trained in the Fertility Awareness Method of fertility tracking and have a 200 hour yoga teacher certification allowing me to support families with healthy movement during pregnancy. With a background in childcare, I see myself as a nurturer and enjoy inspiring empowerment in families through providing information, continuity of care, and support of their individual desires around their birth and parenting experience.</p>
       <p class="pb-4">I am thrilled to be a part of your pregnancy and birth journey.</p>
     </div>
