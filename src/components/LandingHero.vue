@@ -6,7 +6,7 @@
   >
     <div class="relative col-start-1 row-start-1 row-span-2">
       <g-image
-        src="../assets/birth-v2-1.jpeg"
+        src="../assets/birth-3.jpeg"
         class="absolute object-cover w-full h-full opacity-50 lg:object-left"
       />
       <!-- <div class="absolute w-full h-full bg-gradient-to-t from-off-white"></div> -->
