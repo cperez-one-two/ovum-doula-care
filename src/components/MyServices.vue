@@ -106,13 +106,13 @@
         <div class="p-2 m-6">
           <p>Offered quarterly, this virtual workshop is created by Cali Machen, CD., and Maggie Saltiel, LSW., and focuses on a large range of prenatal education topics with a focus on mental health. Topics covered include:</p>
           <br>
-          <ul>
-            <li>- Anatomy of Pregnancy</li>
-            <li>- Physiological Birth and Stages of Labor </li>
-            <li>- Intervention and advocacy </li>
-            <li>- Basics of Feeding</li>
-            <li>- Perinatal Mental Health </li>
-            <li>- Postpartum Healing and Support</li>
+          <ul class="list-disc list-inside">
+            <li>Anatomy of Pregnancy</li>
+            <li>Physiological Birth and Stages of Labor </li>
+            <li>Intervention and advocacy </li>
+            <li>Basics of Feeding</li>
+            <li>Perinatal Mental Health </li>
+            <li>Postpartum Healing and Support</li>
           </ul>
           <br>
           <p>Those who participate in the workshop will receive a copy of our eBook and workbook to accompany the class.</p>
