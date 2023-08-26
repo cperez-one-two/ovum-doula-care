@@ -101,31 +101,6 @@
           </div>
         </div>
         
-      <div id="addons" class="shadow-xl mx-5 mb-10 text-lg mt-5 bg-gray-50 rounded-md">
-        <h3 class="py-3 font-mono text-3xl text-center bg-olive-dark rounded-t-md text-gray-50">Preparing for birth workshop</h3>
-        <div class="p-2 m-6">
-          <p>Offered quarterly, this virtual workshop is created by Cali Machen, CD., and Maggie Saltiel, LSW., and focuses on a large range of prenatal education topics with a focus on mental health. Topics covered include:</p>
-          <br>
-          <ul class="list-disc list-inside">
-            <li>Anatomy of Pregnancy</li>
-            <li>Physiological Birth and Stages of Labor </li>
-            <li>Intervention and advocacy </li>
-            <li>Basics of Feeding</li>
-            <li>Perinatal Mental Health </li>
-            <li>Postpartum Healing and Support</li>
-          </ul>
-          <br>
-          <p>Those who participate in the workshop will receive a copy of our eBook and workbook to accompany the class.</p>
-          <br>
-          <p>Please contact to see when the next workshop is being offered! </p>
-          <div class="flex grow mt-auto my-2 py-2">
-            <a
-              href="#contact"
-              class="block justify-center px-3 py-2 mx-auto bg-white border-2 hover:border-transparent rounded border-opacity-40 bg-opacity-20 hover:bg-yellow hover:border-opacity-40 transition ease-in duration-130 text-gray-950 hover:text-gray-50"
-              >Contact for booking</a>
-          </div>
-        </div>
-      </div>
       </div>
 
     </div>
