@@ -13,6 +13,8 @@ if (process.env.NODE_ENV === "production")
 
 module.exports = {
   siteName: "Pregnancy, Birth, Postpartum, and Menstrual Cycle Support",
+  siteUrl: 'https://cperez-one-two.github.io',
+  pathPrefix: '/ovum-doula-care',
   css: {
     loaderOptions: {
       postcss: {
